@@ -1,0 +1,53 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#main {
+	width: 70vw;
+	margin: 0 auto;
+}
+
+h1 {
+	width: 300px;
+	margin: 0 auto;
+	font-size: 8em;
+}
+
+
+
+img {
+	max-width: 100%;
+	display: block;
+	height: auto;
+}
+
+figcaption {
+	width: 200px;
+	display: block;
+	margin: 0 auto;
+}
+
+h2 {
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 3em;
+}
+
+.disco {
+	width: 200px;
+}
+
+ul {
+	display: block;
+	margin: 0 auto;
+	max-width: 200px;
+	margin-top: 1em;
+}
+
+.wiki_link {
+	display: block;
+	width: 35vw;
+	margin: 0 auto;
+	margin-top: 3em;
+}
